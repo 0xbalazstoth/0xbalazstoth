@@ -1,10 +1,14 @@
 ### Hi there 👋
 
-- Stats
+## &#x1f4c8; My GitHub Stats
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=0xbalazstoth&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-<br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0xbalazstoth&langs_count=50)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/natterstefan/natterstefan">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xbalazstoth&title_color=000000&text_color=000000" />
+</a>
+
+<a href="https://github.com/natterstefan/natterstefan">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=0xbalazstoth&show_icons=true&line_height=27&count_private=true&title_color=000000&text_color=000000&icon_color=FAC051" alt="0xbalazstoth's GitHub Stats" />
+</a>
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
