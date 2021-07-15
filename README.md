@@ -3,7 +3,7 @@
 ## &#x1f4c8; My GitHub Stats
 
 <a href="https://github.com/0xbalazstoth/0xbalazstoth">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xbalazstoth&title_color=000000&text_color=000000" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xbalazstoth&langs_count=50&title_color=000000&text_color=000000" />
 </a>
 
 <a href="https://github.com/0xbalazstoth/0xbalazstoth">
